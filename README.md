@@ -24,4 +24,6 @@ Se necesitan los siguientes pre requisitos
 
 * java 1.8 o superior
 * Postman
+* Setear variable de Java Home Ej:set JAVA_HOME=C:\Program Files\Java\jdk1.8.0_231
+
 
